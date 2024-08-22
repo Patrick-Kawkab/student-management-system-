@@ -2,7 +2,7 @@
  * project.c
  *
  *  Created on: Aug 6, 2024
- *      Author: moro
+ *      Author: Patrick Kawkab
  */
 #include<stdio.h>
 #include<stdlib.h>
